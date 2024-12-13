@@ -1,1 +1,2 @@
 sample text file
+added more text
